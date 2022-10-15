@@ -3,28 +3,28 @@ Hello World! in a bunch of different languages
 
 currently:
 
-  C
+  - C
   
-  C++
+  - C++
   
-  Haskell
+  - Haskell
   
-  HTML
+  - HTML
   
-  Java
+  - Java
   
-  Javascript
+  - Javascript
   
-  Kotlin
+  - Kotlin
   
-  Common Lisp
+  - Common Lisp
   
-  Python
+  - Python
   
-  Scheme
+  - Scheme
   
-  Bash
+  - Bash
   
-  Ada
+  - Ada
   
-  Smalltalk
+  - Smalltalk
