@@ -28,3 +28,5 @@ currently:
   - Ada
   
   - Smalltalk
+
+  - Ruby
